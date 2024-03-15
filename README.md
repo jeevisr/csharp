@@ -37,7 +37,6 @@ As described earlier, this program involves designing an abstract class to calcu
  - USN:4MH21CS038
  - Facuty Name: Prof. Victor Ikechukwu Agughasi
 
-FACULTY NAME:Prof.Victor Ikechukwu Agughasi
 
 ## contributor
 [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu)
