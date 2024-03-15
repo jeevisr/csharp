@@ -38,7 +38,7 @@ As described earlier, this program involves designing an abstract class to calcu
  - FACULTY NAME: Prof. Victor Ikechukwu Agughasi
 
 
-## contributor
+## Contributor
 [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu)
 
 [JEEVITHA SR](https://github.com/jeevisr)
